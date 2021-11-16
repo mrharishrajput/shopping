@@ -1,0 +1,131 @@
+.App {
+  text-align: center;
+}
+
+
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.product{
+  border: 3px solid rgb(243, 24, 24);
+  padding: 10px;
+  margin: 10px;
+  width: 200px;
+  display: flex;
+  flex-flow: row;
+  background: rgb(15, 226, 233);
+  width: auto;
+  height: auto;
+  margin: 4px;
+  flex: 1;
+  flex-basis: 20%;
+}
+img{
+  width: 130px;
+  height: 170px;
+
+}
+.pd-main{
+  display: flex;
+  flex-flow: row wrap;
+  position: relative;
+}
+.btn{
+  height: 20px;
+  width: 90px;
+  font-size:xx-small;
+  margin-top: 50%;
+}
+.p-data{
+  margin-left: 10%;
+
+}
+.cart-logo{
+  margin-left: 90%;
+  height: 50px;
+  width: 50px;
+  position: relative;
+  top: 0;
+  left: 0;
+  opacity: 0.5;
+  
+}
+.cart-value{
+  margin-top: 100px;
+  margin-left: 90%;
+  position: absolute;
+  
+  top: 0;
+  left: 0;
+  
+  font-size: xx-large;
+  color: rgb(231, 7, 26);
+}
+#cart-main{
+ padding-left: 10px;
+ padding-right: 20px;
+ margin-right: 20%;
+}
+.x-btn{
+  margin-left: 70%;
+  height: 30px;
+  width: 35px;
+  font-size: x-large;
+
+}
+.x-btn:hover{
+  background-color: red;
+
+}
+.total-payment{
+  margin-bottom: 5%;
+  margin-left: 10px;
+}
+#checkout{
+  background-color: rgb(46, 235, 46);
+  height: 30px;
+  width: 300px;
+  margin-bottom: 30px;
+  margin-left: 10px;
+  font-size: larger;
+  border: 2px solid black;
+}
+button{
+  background-color: rgb(102, 102, 240);
+  font-size: larger;
+}
+#login,#singup{
+  background-color: rgb(17, 245, 112);
+  border: 2px solid black;
+}
+#logout{
+  background-color: red;
+}
+.btn{
+  background-color: chocolate;
+
+}
+#bck{
+  background-color: cadetblue;
+}
