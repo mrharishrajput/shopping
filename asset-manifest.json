@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/shopping/static/css/main.25fe2cb4.chunk.css",
+    "main.js": "/shopping/static/js/main.c5571ee9.chunk.js",
+    "main.js.map": "/shopping/static/js/main.c5571ee9.chunk.js.map",
+    "runtime-main.js": "/shopping/static/js/runtime-main.a57bd693.js",
+    "runtime-main.js.map": "/shopping/static/js/runtime-main.a57bd693.js.map",
+    "static/js/2.12579586.chunk.js": "/shopping/static/js/2.12579586.chunk.js",
+    "static/js/2.12579586.chunk.js.map": "/shopping/static/js/2.12579586.chunk.js.map",
+    "static/js/3.dcc35730.chunk.js": "/shopping/static/js/3.dcc35730.chunk.js",
+    "static/js/3.dcc35730.chunk.js.map": "/shopping/static/js/3.dcc35730.chunk.js.map",
+    "index.html": "/shopping/index.html",
+    "static/css/main.25fe2cb4.chunk.css.map": "/shopping/static/css/main.25fe2cb4.chunk.css.map",
+    "static/js/2.12579586.chunk.js.LICENSE.txt": "/shopping/static/js/2.12579586.chunk.js.LICENSE.txt",
+    "static/media/shopping-cart-icon-flat-design-260nw-570153007.53dc3862.jpg": "/shopping/static/media/shopping-cart-icon-flat-design-260nw-570153007.53dc3862.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a57bd693.js",
+    "static/js/2.12579586.chunk.js",
+    "static/css/main.25fe2cb4.chunk.css",
+    "static/js/main.c5571ee9.chunk.js"
+  ]
+}
