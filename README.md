@@ -68,3 +68,17 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
+========>>>>>>>>>>>>>>>>>>>>>>> npm install after downloading repo
+ then npm start .
+ after that you can directly sing in email is username@admin.com password is 1234..
+ we can also ragister user but this time it is not working in proper ragister user option you can check console output also.
+ then you can add to cart products  
+ after that click on cart icon right top then you will see cart details and back button is on top left to come back 
+then you can log out   
+
+
+... if you are not logged in so you can not proceed for buying  product
