@@ -32,7 +32,7 @@ function App() {
           }
 
         }}>LogIn</button>
-                    <p>Note :::: by default email is <u>username@admin.com</u> and password is <u>1234</u></p>
+                    <p id="pp">Note :::: by default email is <u>username@admin.com</u> and password is <u>1234</u></p>
         <h3>if you don't have an account please <a onClick={() => setlogin(false)} href="###">click here</a> to sing up</h3>
       </div>
 
